@@ -1,5 +1,5 @@
 % Finanzökonometrisches Seminar für BA-Studierende: Themenliste
-% Christian Groll, Fabian Spanhel, Elizabeth Heller, Henry Pott
+% Christian Groll, Fabian Spanhel, Elizabeth Heller, Henry Port
 % October 15, 2015
 
 # Using Bootstrapping and Filtered Historical Simulation to Evaluate Market Risk

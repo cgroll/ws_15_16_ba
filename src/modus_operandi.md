@@ -1,5 +1,5 @@
 % Finanzökonometrisches Seminar für BA-Studierende: Vorgaben
-% Christian Groll, Fabian Spanhel, Elizabeth Heller, Henry Pott
+% Christian Groll, Fabian Spanhel, Elizabeth Heller, Henry Port
 
 # General Requirements for 6 ECTS Credits:
 (1) writing a term paper (at least 15 pages of text)
