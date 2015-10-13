@@ -5,7 +5,5 @@ seminar](http://www.finmetrics.statistik.uni-muenchen.de/studium_lehre/wintersem
 held at [Chair of Financial
 Econometrics](http://www.finmetrics.statistik.uni-muenchen.de/index.html).
 
-- [Topics overview](http://cgroll.github.io/ws_15_16_ba/output/topics.html)
-- [Topics slides](http://cgroll.github.io/ws_15_16_ba/output/topics_pres.html)
-- [Organizational
-  notes](http://cgroll.github.io/ws_15_16_ba/output/modus_operandi.html)
+- [Topics overview](http://htmlpreview.github.io/?https://github.com/cgroll/ws_15_16_ba/blob/master/output/topics.html)
+- [Organizational notes](http://htmlpreview.github.io/?https://github.com/cgroll/ws_15_16_ba/blob/master/output/modus_operandi.html)
