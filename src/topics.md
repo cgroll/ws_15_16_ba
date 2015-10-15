@@ -87,7 +87,7 @@ Supervisor: Fabian Spanhel
 - [@asldkj]
 - [@rv_rupp_2010_statistics_data_analysis_financial_engineering]
 
-# Modeling the Marginal disribution of Financial Returns
+# Modeling the Marginal distribution of Financial Returns
 
 Supervisor: Fabian Spanhel
 
